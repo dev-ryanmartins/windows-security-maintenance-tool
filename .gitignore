@@ -1,0 +1,7 @@
+# Relatórios locais e artefatos de execução
+*.log
+reports/
+
+# Configurações locais do editor
+.vscode/
+.idea/
